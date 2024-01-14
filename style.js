@@ -1212,161 +1212,161 @@ home = [
 
     //H2
 
-    {id: 1017, floor: '1-12', queue: 5, section: 'H2', finishing: true, url: ''},
-    {id: 1018, floor: '1-12', queue: 5, section: 'H2', finishing: true, url: ''},
-    {id: 1019, floor: '1-12', queue: 5, section: 'H2'},
-    {id: 1020, floor: '1-12', queue: 5, section: 'H2', finishing: true, url: ''},
-    {id: 1021, floor: '1-12', queue: 5, section: 'H2'},
-    {id: 1022, floor: '1-12', queue: 5, section: 'H2', finishing: true, url: ''},
+    {id: 1017, floor: '1-12',finishing: true, url: ''},
+    {id: 1018, floor: '1-12',finishing: true, url: ''},
+    {id: 1019, floor: '1-12'},
+    {id: 1020, floor: '1-12',finishing: true, url: ''},
+    {id: 1021, floor: '1-12'},
+    {id: 1022, floor: '1-12',finishing: true, url: ''},
 
-    {id: 1023, floor: '2-12', queue: 5, section: 'H2'},
-    {id: 1024, floor: '2-12', queue: 5, section: 'H2', finishing: true, url: ''},
-    {id: 1025, floor: '2-12', queue: 5, section: 'H2'},
-    {id: 1026, floor: '2-12', queue: 5, section: 'H2', finishing: true, url: ''},
-    {id: 1027, floor: '2-12', queue: 5, section: 'H2'},
-    {id: 1028, floor: '2-12', queue: 5, section: 'H2', finishing: true, url: ''},
-    {id: 1029, floor: '2-12', queue: 5, section: 'H2'},
+    {id: 1023, floor: '2-12'},
+    {id: 1024, floor: '2-12',finishing: true, url: ''},
+    {id: 1025, floor: '2-12'},
+    {id: 1026, floor: '2-12',finishing: true, url: ''},
+    {id: 1027, floor: '2-12'},
+    {id: 1028, floor: '2-12',finishing: true, url: ''},
+    {id: 1029, floor: '2-12'},
 
-    {id: 1030, floor: '3-12', queue: 5, section: 'H2'},
-    {id: 1031, floor: '3-12', queue: 5, section: 'H2', finishing: true, url: ''},
-    {id: 1032, floor: '3-12', queue: 5, section: 'H2', finishing: true, url: ''},
-    {id: 1033, floor: '3-12', queue: 5, section: 'H2', finishing: true, url: ''},
-    {id: 1034, floor: '3-12', queue: 5, section: 'H2'},
-    {id: 1035, floor: '3-12', queue: 5, section: 'H2', finishing: true, url: ''},
-    {id: 1036, floor: '3-12', queue: 5, section: 'H2', finishing: true, url: ''},
+    {id: 1030, floor: '3-12'},
+    {id: 1031, floor: '3-12',finishing: true, url: ''},
+    {id: 1032, floor: '3-12', finishing: true, url: ''},
+    {id: 1033, floor: '3-12',finishing: true, url: ''},
+    {id: 1034, floor: '3-12'},
+    {id: 1035, floor: '3-12',finishing: true, url: ''},
+    {id: 1036, floor: '3-12',finishing: true, url: ''},
 
-    {id: 1037, floor: '4-12', queue: 5, section: 'H2'},
-    {id: 1038, floor: '4-12', queue: 5, section: 'H2', finishing: true, url: ''},
-    {id: 1039, floor: '4-12', queue: 5, section: 'H2', finishing: true, url: ''},
-    {id: 1040, floor: '4-12', queue: 5, section: 'H2', finishing: true, url: ''},
-    {id: 1041, floor: '4-12', queue: 5, section: 'H2', finishing: true, url: ''},
-    {id: 1042, floor: '4-12', queue: 5, section: 'H2', finishing: true, url: ''},
-    {id: 1043, floor: '4-12', queue: 5, section: 'H2', finishing: true, url: ''},
+    {id: 1037, floor: '4-12'},
+    {id: 1038, floor: '4-12', finishing: true, url: ''},
+    {id: 1039, floor: '4-12',finishing: true, url: ''},
+    {id: 1040, floor: '4-12', finishing: true, url: ''},
+    {id: 1041, floor: '4-12',finishing: true, url: ''},
+    {id: 1042, floor: '4-12', finishing: true, url: ''},
+    {id: 1043, floor: '4-12', finishing: true, url: ''},
 
-    {id: 1044, floor: '5-12', queue: 5, section: 'H2'},
-    {id: 1045, floor: '5-12', queue: 5, section: 'H2', finishing: true, url: ''},
-    {id: 1046, floor: '5-12', queue: 5, section: 'H2', finishing: true, url: ''},
-    {id: 1047, floor: '5-12', queue: 5, section: 'H2'},
-    {id: 1048, floor: '5-12', queue: 5, section: 'H2', finishing: true, url: ''},
-    {id: 1049, floor: '5-12', queue: 5, section: 'H2'},
-    {id: 1050, floor: '5-12', queue: 5, section: 'H2', finishing: true, url: ''},
+    {id: 1044, floor: '5-12'},
+    {id: 1045, floor: '5-12', finishing: true, url: ''},
+    {id: 1046, floor: '5-12',finishing: true, url: ''},
+    {id: 1047, floor: '5-12'},
+    {id: 1048, floor: '5-12',finishing: true, url: ''},
+    {id: 1049, floor: '5-12'},
+    {id: 1050, floor: '5-12',finishing: true, url: ''},
 
-    {id: 1051, floor: '6-12', queue: 5, section: 'H2'},
-    {id: 1052, floor: '6-12', queue: 5, section: 'H2', finishing: true, url: ''},
-    {id: 1053, floor: '6-12', queue: 5, section: 'H2', finishing: true, url: ''},
-    {id: 1054, floor: '6-12', queue: 5, section: 'H2'},
-    {id: 1055, floor: '6-12', queue: 5, section: 'H2', finishing: true, url: ''},
-    {id: 1056, floor: '6-12', queue: 5, section: 'H2'},
-    {id: 1057, floor: '6-12', queue: 5, section: 'H2'},
+    {id: 1051, floor: '6-12'},
+    {id: 1052, floor: '6-12',finishing: true, url: ''},
+    {id: 1053, floor: '6-12',finishing: true, url: ''},
+    {id: 1054, floor: '6-12'},
+    {id: 1055, floor: '6-12',finishing: true, url: ''},
+    {id: 1056, floor: '6-12'},
+    {id: 1057, floor: '6-12'},
 
-    {id: 1058, floor: '7-12', queue: 5, section: 'H2', finishing: true, url: ''},
-    {id: 1059, floor: '7-12', queue: 5, section: 'H2'},
-    {id: 1060, floor: '7-12', queue: 5, section: 'H2'},
-    {id: 1061, floor: '7-12', queue: 5, section: 'H2', finishing: true, url: '' },
-    {id: 1062, floor: '7-12', queue: 5, section: 'H2', finishing: true, url: ''},
-    {id: 1063, floor: '7-12', queue: 5, section: 'H2'},
-    {id: 1064, floor: '7-12', queue: 5, section: 'H2'},
+    {id: 1058, floor: '7-12',finishing: true, url: ''},
+    {id: 1059, floor: '7-12'},
+    {id: 1060, floor: '7-12'},
+    {id: 1061, floor: '7-12',finishing: true, url: '' },
+    {id: 1062, floor: '7-12',finishing: true, url: ''},
+    {id: 1063, floor: '7-12'},
+    {id: 1064, floor: '7-12'},
 
-    {id: 1065, floor: '8-12', queue: 5, section: 'H2'},
-    {id: 1066, floor: '8-12', queue: 5, section: 'H2'},
-    {id: 1067, floor: '8-12', queue: 5, section: 'H2', finishing: true, url: ''},
-    {id: 1068, floor: '8-12', queue: 5, section: 'H2', finishing: true, url: ''},
-    {id: 1069, floor: '8-12', queue: 5, section: 'H2', finishing: true, url: ''},
-    {id: 1070, floor: '8-12', queue: 5, section: 'H2'},
-    {id: 1071, floor: '8-12', queue: 5, section: 'H2'},
+    {id: 1065, floor: '8-12'},
+    {id: 1066, floor: '8-12'},
+    {id: 1067, floor: '8-12',finishing: true, url: ''},
+    {id: 1068, floor: '8-12',finishing: true, url: ''},
+    {id: 1069, floor: '8-12',finishing: true, url: ''},
+    {id: 1070, floor: '8-12'},
+    {id: 1071, floor: '8-12'},
 
-    {id: 1072, floor: '9-12', queue: 5, section: 'H2', finishing: true, url: ''},
-    {id: 1073, floor: '9-12', queue: 5, section: 'H2'},
-    {id: 1074, floor: '9-12', queue: 5, section: 'H2'},
-    {id: 1075, floor: '9-12', queue: 5, section: 'H2'},
-    {id: 1076, floor: '9-12', queue: 5, section: 'H2'},
-    {id: 1077, floor: '9-12', queue: 5, section: 'H2', finishing: true, url: ''},
-    {id: 1078, floor: '9-12', queue: 5, section: 'H2'},
+    {id: 1072, floor: '9-12',finishing: true, url: ''},
+    {id: 1073, floor: '9-12'},
+    {id: 1074, floor: '9-12'},
+    {id: 1075, floor: '9-12'},
+    {id: 1076, floor: '9-12'},
+    {id: 1077, floor: '9-12',finishing: true, url: ''},
+    {id: 1078, floor: '9-12'},
 
-    {id: 1079, floor: '10-12', queue: 5, section: 'H2'},
-    {id: 1080, floor: '10-12', queue: 5, section: 'H2', finishing: true, url: ''},
-    {id: 1081, floor: '10-12', queue: 5, section: 'H2'},
-    {id: 1082, floor: '10-12', queue: 5, section: 'H2'},
-    {id: 1083, floor: '10-12', queue: 5, section: 'H2'},
-    {id: 1084, floor: '10-12', queue: 5, section: 'H2'},
-    {id: 1085, floor: '10-12', queue: 5, section: 'H2', finishing: true, url: ''},
+    {id: 1079, floor: '10-12'},
+    {id: 1080, floor: '10-12',finishing: true, url: ''},
+    {id: 1081, floor: '10-12'},
+    {id: 1082, floor: '10-12'},
+    {id: 1083, floor: '10-12'},
+    {id: 1084, floor: '10-12'},
+    {id: 1085, floor: '10-12',finishing: true, url: ''},
 
-    {id: 1086, floor: '11-12', queue: 5, section: 'H2'},
-    {id: 1087, floor: '11-12', queue: 5, section: 'H2'},
-    {id: 1088, floor: '11-12', queue: 5, section: 'H2'},
-    {id: 1089, floor: '11-12', queue: 5, section: 'H2', finishing: true, url: ''},
-    {id: 1090, floor: '11-12', queue: 5, section: 'H2', finishing: true, url: ''},
-    {id: 1091, floor: '11-12', queue: 5, section: 'H2', finishing: true, url: ''},
-    {id: 1092, floor: '11-12', queue: 5, section: 'H2'},
+    {id: 1086, floor: '11-12'},
+    {id: 1087, floor: '11-12'},
+    {id: 1088, floor: '11-12'},
+    {id: 1089, floor: '11-12', finishing: true, url: ''},
+    {id: 1090, floor: '11-12',finishing: true, url: ''},
+    {id: 1091, floor: '11-12',finishing: true, url: ''},
+    {id: 1092, floor: '11-12'},
 
-    {id: 1093, floor: '12-12', queue: 5, section: 'H2'},
-    {id: 1094, floor: '12-12', queue: 5, section: 'H2'},
-    {id: 1095, floor: '12-12', queue: 5, section: 'H2', finishing: true, url: ''},
-    {id: 1096, floor: '12-12', queue: 5, section: 'H2', finishing: true, url: ''},
-    {id: 1097, floor: '12-12', queue: 5, section: 'H2'},
-    {id: 1098, floor: '12-12', queue: 5, section: 'H2', finishing: true, url: ''},
+    {id: 1093, floor: '12-12'},
+    {id: 1094, floor: '12-12'},
+    {id: 1095, floor: '12-12', finishing: true, url: ''},
+    {id: 1096, floor: '12-12', finishing: true, url: ''},
+    {id: 1097, floor: '12-12'},
+    {id: 1098, floor: '12-12',finishing: true, url: ''},
 
 
     //K2
 
-    {id: 1099, floor: '1-10', queue: 5, section: 'K2'},
-    {id: 1100, floor: '1-10', queue: 5, section: 'K2'},
-    {id: 1101, floor: '1-10', queue: 5, section: 'K2', finishing: true, url: ''},
-    {id: 1102, floor: '1-10', queue: 5, section: 'K2', finishing: true, url: ''},
-    {id: 1103, floor: '1-10', queue: 5, section: 'K2'},
+    {id: 1099, floor: '1-10'},
+    {id: 1100, floor: '1-10'},
+    {id: 1101, floor: '1-10', finishing: true, url: ''},
+    {id: 1102, floor: '1-10', finishing: true, url: ''},
+    {id: 1103, floor: '1-10'},
 
-    {id: 1104, floor: '2-10', queue: 5, section: 'K2', finishing: true, url: ''},
-    {id: 1105, floor: '2-10', queue: 5, section: 'K2', finishing: true, url: ''},
-    {id: 1106, floor: '2-10', queue: 5, section: 'K2', finishing: true, url: ''},
-    {id: 1107, floor: '2-10', queue: 5, section: 'K2'},
-    {id: 1108, floor: '2-10', queue: 5, section: 'K2'},
+    {id: 1104, floor: '2-10',finishing: true, url: ''},
+    {id: 1105, floor: '2-10', finishing: true, url: ''},
+    {id: 1106, floor: '2-10', finishing: true, url: ''},
+    {id: 1107, floor: '2-10'},
+    {id: 1108, floor: '2-10'},
 
-    {id: 1109, floor: '3-10', queue: 5, section: 'K2', finishing: true, url: ''},
-    {id: 1110, floor: '3-10', queue: 5, section: 'K2', finishing: true, url: ''},
-    {id: 1111, floor: '3-10', queue: 5, section: 'K2', finishing: true, url: '' },
-    {id: 1112, floor: '3-10', queue: 5, section: 'K2'},
-    {id: 1113, floor: '3-10', queue: 5, section: 'K2', finishing: true, url: ''},
+    {id: 1109, floor: '3-10',finishing: true, url: ''},
+    {id: 1110, floor: '3-10',finishing: true, url: ''},
+    {id: 1111, floor: '3-10',finishing: true, url: '' },
+    {id: 1112, floor: '3-10'},
+    {id: 1113, floor: '3-10',finishing: true, url: ''},
 
-    {id: 1114, floor: '4-10', queue: 5, section: 'K2'},
-    {id: 1115, floor: '4-10', queue: 5, section: 'K2'},
-    {id: 1116, floor: '4-10', queue: 5, section: 'K2'},
-    {id: 1117, floor: '4-10', queue: 5, section: 'K2'},
-    {id: 1118, floor: '4-10', queue: 5, section: 'K2', finishing: true, url: ''},
+    {id: 1114, floor: '4-10'},
+    {id: 1115, floor: '4-10'},
+    {id: 1116, floor: '4-10'},
+    {id: 1117, floor: '4-10'},
+    {id: 1118, floor: '4-10',finishing: true, url: ''},
 
-    {id: 1119, floor: '5-10', queue: 5, section: 'K2'},
-    {id: 1120, floor: '5-10', queue: 5, section: 'K2'},
-    {id: 1121, floor: '5-10', queue: 5, section: 'K2', finishing: true, url: ''},
-    {id: 1122, floor: '5-10', queue: 5, section: 'K2', finishing: true, url: ''},
-    {id: 1123, floor: '5-10', queue: 5, section: 'K2'},
+    {id: 1119, floor: '5-10'},
+    {id: 1120, floor: '5-10'},
+    {id: 1121, floor: '5-10', finishing: true, url: ''},
+    {id: 1122, floor: '5-10',finishing: true, url: ''},
+    {id: 1123, floor: '5-10'},
 
-    {id: 1124, floor: '6-10', queue: 5, section: 'K2', finishing: true, url: ''},
-    {id: 1125, floor: '6-10', queue: 5, section: 'K2'},
-    {id: 1126, floor: '6-10', queue: 5, section: 'K2', finishing: true, url: ''},
-    {id: 1127, floor: '6-10', queue: 5, section: 'K2'},
-    {id: 1128, floor: '6-10', queue: 5, section: 'K2'},
+    {id: 1124, floor: '6-10', finishing: true, url: ''},
+    {id: 1125, floor: '6-10'},
+    {id: 1126, floor: '6-10',finishing: true, url: ''},
+    {id: 1127, floor: '6-10'},
+    {id: 1128, floor: '6-10'},
 
-    {id: 1129, floor: '7-10', queue: 5, section: 'K2', finishing: true, url: ''},
-    {id: 1130, floor: '7-10', queue: 5, section: 'K2', finishing: true, url: ''},
-    {id: 1131, floor: '7-10', queue: 5, section: 'K2', finishing: true, url: ''},
-    {id: 1132, floor: '7-10', queue: 5, section: 'K2', finishing: true, url: ''},
-    {id: 1133, floor: '7-10', queue: 5, section: 'K2'},
+    {id: 1129, floor: '7-10',finishing: true, url: ''},
+    {id: 1130, floor: '7-10',finishing: true, url: ''},
+    {id: 1131, floor: '7-10',finishing: true, url: ''},
+    {id: 1132, floor: '7-10',finishing: true, url: ''},
+    {id: 1133, floor: '7-10',},
 
-    {id: 1134, floor: '8-10', queue: 5, section: 'K2', finishing: true, url: ''},
-    {id: 1135, floor: '8-10', queue: 5, section: 'K2'},
-    {id: 1136, floor: '8-10', queue: 5, section: 'K2', finishing: true, url: ''},
-    {id: 1137, floor: '8-10', queue: 5, section: 'K2'},
-    {id: 1138, floor: '8-10', queue: 5, section: 'K2', finishing: true, url: ''},
+    {id: 1134, floor: '8-10',finishing: true, url: ''},
+    {id: 1135, floor: '8-10',},
+    {id: 1136, floor: '8-10',finishing: true, url: ''},
+    {id: 1137, floor: '8-10'},
+    {id: 1138, floor: '8-10',finishing: true, url: ''},
 
-    {id: 1139, floor: '9-10', queue: 5, section: 'K2'},
-    {id: 1140, floor: '9-10', queue: 5, section: 'K2'},
-    {id: 1142, floor: '9-10', queue: 5, section: 'K2'},
-    {id: 1141, floor: '9-10', queue: 5, section: 'K2', finishing: true, url:''},
-    {id: 1143, floor: '9-10', queue: 5, section: 'K2'},
+    {id: 1139, floor: '9-10'},
+    {id: 1140, floor: '9-10'},
+    {id: 1142, floor: '9-10'},
+    {id: 1141, floor: '9-10',finishing: true, url:''},
+    {id: 1143, floor: '9-10'},
 
-    {id: 1144, floor: '10-10', queue: 5, section: 'K2'},
-    {id: 1145, floor: '10-10', queue: 5, section: 'K2'},
-    {id: 1146, floor: '10-10', queue: 5, section: 'K2', finishing: true, url:''},
-    {id: 1147, floor: '10-10', queue: 5, section: 'K2', finishing: true, url: ''}
+    {id: 1144, floor: '10-10'},
+    {id: 1145, floor: '10-10'},
+    {id: 1146, floor: '10-10', finishing: true, url:''},
+    {id: 1147, floor: '10-10', finishing: true, url: ''}
 
 
 ];
@@ -1383,75 +1383,131 @@ btnSearch.addEventListener('click', () => {
     if (inp.value !== '' && inp.value.length <= 4) {
         let res = home.find(item => item.id === +inp.value);
 
-        switch (res.section) {
-            case "D2":
-                frontDoor.innerHTML = '1'
-                break;
+        if (res.id >= 725 && res.id <= 776) {
 
-            case "D1":
-                frontDoor.innerHTML = '2'
-                break;
+            // section.innerHTML = 'K31';
+            // frontDoor.innerHTML = '19';
+            // queue.innerHTML = '3';
 
-            case "A1":
-                frontDoor.innerHTML = '3'
-                break;
+        } else if (res.id >= 777 && res.id <= 813) {
 
-            case "G1":
-                frontDoor.innerHTML = '4'
-                break;
+            // section.innerHTML = 'K32';
+            // frontDoor.innerHTML = '20';
+            // queue.innerHTML = '3';
 
-            case "H1":
-                frontDoor.innerHTML = '5'
-                break;
+        } else if (res.id >= 814 && res.id <= 842) {
 
-            case "K1":
-                frontDoor.innerHTML = '6'
-                break;
+            // section.innerHTML = 'K33';
+            // frontDoor.innerHTML = '21';
+            // queue.innerHTML = '3';
 
-            case "N4":
-                frontDoor.innerHTML = '7'
-                break;
 
-            case "N1":
-                frontDoor.innerHTML = '8'
-                break;
+        } else if (res.id >= 843 && res.id <= 879) {
 
-            case "N2":
-                frontDoor.innerHTML = '9'
-                break;
+            // section.innerHTML = 'K34';
+            // frontDoor.innerHTML = '22';
+            // queue.innerHTML = '3';
 
-            case "N3":
-                frontDoor.innerHTML = '10'
-                break;
 
-            case "F1":
-                frontDoor.innerHTML = '11'
-                break;
+        } else if (res.id >= 880 && res.id <= 899) {
 
-            case "F2":
-                frontDoor.innerHTML = '12'
-                break;
+            // section.innerHTML = 'K35';
+            // frontDoor.innerHTML = '23';
+            // queue.innerHTML = '3';
 
-            case "G2":
-                frontDoor.innerHTML = '13'
-                break;
 
-            case "H2":
-                frontDoor.innerHTML = '14'
-                break;
+        } else if (res.id >= 900 && res.id <= 911) {
 
-            case "K2":
-                frontDoor.innerHTML = '15'
-                break;
+            // section.innerHTML = 'K36';
+            // frontDoor.innerHTML = '24';
+            // queue.innerHTML = '3';
 
-            default:
-                break;
+
+        } else if (res.id >= 1017 && res.id <= 1098) {
+
+            section.innerHTML = 'H2';
+            frontDoor.innerHTML = '14';
+            queue.innerHTML = '5';
+
+
+        } else if (res.id >= 1099 && res.id <= 1147) {
+            section.innerHTML = 'K2';
+            frontDoor.innerHTML = '15';
+            queue.innerHTML = '5';
+
         }
+
+
+
+        // switch (res.section) {
+        //     case "D2":
+        //         frontDoor.innerHTML = '1'
+        //         break;
+        //
+        //     case "D1":
+        //         frontDoor.innerHTML = '2'
+        //         break;
+        //
+        //     case "A1":
+        //         frontDoor.innerHTML = '3'
+        //         break;
+        //
+        //     case "G1":
+        //         frontDoor.innerHTML = '4'
+        //         break;
+        //
+        //     case "H1":
+        //         frontDoor.innerHTML = '5'
+        //         break;
+        //
+        //     case "K1":
+        //         frontDoor.innerHTML = '6'
+        //         break;
+        //
+        //     case "N4":
+        //         frontDoor.innerHTML = '7'
+        //         break;
+        //
+        //     case "N1":
+        //         }.innerHTML = '8'
+        //         break;
+        //
+        //     case "N2":
+        //         frontDoor.innerHTML = '9'
+        //         break;
+        //
+        //     case "N3":
+        //         frontDoor.innerHTML = '10'
+        //         break;
+        //
+        //     case "F1":
+        //         frontDoor.innerHTML = '11'
+        //         break;
+        //
+        //     case "F2":
+        //         frontDoor.innerHTML = '12'
+        //         break;
+        //
+        //     case "G2":
+        //         frontDoor.innerHTML = '13'
+        //         break;
+        //
+        //     case "H2":
+        //         frontDoor.innerHTML = '14'
+        //         break;
+        //
+        //     case "K2":
+        //         frontDoor.innerHTML = '15'
+        //         break;
+        //
+        //     default:
+        //         break;
+        // }
 
         apartmentNumber.innerHTML = res.id;
         floor.innerHTML = res.floor;
-        section.innerHTML = res.section;
-        queue.innerHTML = res.queue;
+        // section.innerHTML = res.section;
+        // queue.innerHTML = res.queue;
 
         finishing.innerText = res.finishing === true ? 'Да' : 'Нет';
         if (res.finishing === true) {

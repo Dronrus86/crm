@@ -14,7 +14,7 @@ home = [
     {id: 4, floor: '3-15', queue: 1, section: 'D2'},
     {id: 5, floor: '3-15', queue: 1, section: 'D2'},
     {id: 6, floor: '3-15', queue: 1, section: 'D2'},
-    {id: 7, floor: '3-15', queue: 1, section: 'D2', finishing: true, url: '' },
+    {id: 7, floor: '3-15', queue: 1, section: 'D2', finishing: true, url: 'https://fsknw.bitrix24.ru/bitrix/tools/disk/focus.php?objectId=625228&cmd=show&action=showObjectInGrid&ncc=1' },
     {id: 8, floor: '3-15', queue: 1, section: 'D2'},
     {id: 9, floor: '3-15', queue: 1, section: 'D2', finishing: true, url: ''},
 

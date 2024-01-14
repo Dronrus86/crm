@@ -1,0 +1,210 @@
+@import url('https://fonts.googleapis.com/css2?family=Roboto:ital,wght@0,100;0,300;0,400;0,500;0,700;0,900;1,100;1,300;1,400;1,700;1,900&display=swap');
+
+body {
+    margin: 0;
+    padding: 0;
+    font-family: "Roboto";
+
+}
+
+.wrapper {
+    width: 100%;
+    margin: 0 auto;
+    text-align: center;
+}
+
+.sectin_btn {
+    display: flex;
+    margin: auto;
+    justify-content: space-around;
+    width: 50%;
+    padding-top: 15px;
+    padding-bottom: 15px;
+}
+
+h1 {
+    color: #6ec2b3;
+    font-size: 55px;
+    font-weight: bold;
+}
+
+.inp {
+    width: 250px;
+    height: 35px;
+    border: solid 1px #013b2d;
+    border-radius: 5px;
+    text-align: center;
+    font-size: 16px;
+    margin: 20px;
+}
+
+.btn {
+    color: #013b2d;
+    font-size: 14px;
+    border-radius: 5px;
+    background-color: #6ec2b3;
+    border: none;
+    width: 170px;
+    height: 40px;
+}
+
+.apartment_search {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    width: 80%;
+    margin: auto;
+    padding-bottom: 40px;
+}
+
+.wrapper_resaylt {
+    width: 50%;
+    margin: auto;
+
+
+}
+
+table {
+    margin: auto;
+    padding: 10px;
+    border: 1px solid;
+    border-collapse: collapse;
+
+}
+
+th {
+    padding: 20px;
+    border: 1px solid;
+
+}
+
+td {
+    border: 1px solid;
+    padding: 10px;
+    height: 30px;
+    font-size: 20px;
+}
+
+h2 {
+    color: #013b2d;
+    font-size: 40px;
+}
+
+.activ {
+    background-color: #013b2d;
+    color: white;
+}
+
+.img {
+    width: 250px;
+    height: 200px;
+    padding: 20px;
+}
+
+a {
+    text-decoration: none;
+}
+
+
+.errText {
+    margin: auto;
+    width: 70%;
+    padding-top: 70px;
+    text-align: center;
+}
+
+.err {
+    font-size: 30px;
+    color: #013b2d;
+}
+
+.btnErr {
+
+    text-align: center;
+
+}
+
+.btnBack {
+    width: 150px;
+    height: 40px;
+    border: none;
+    background-color: #6ec2b3;
+    border-radius: 5px;
+
+}
+
+@media screen and (max-width: 991px) {
+    .sectin_btn {
+        flex-wrap: wrap;
+
+    }
+
+    .img {
+        width: 550px;
+        height: 350px;
+    }
+
+    .apartment_search {
+        flex-wrap: wrap;
+    }
+
+    .inp {
+        width: 400px;
+        height: 80px;
+        font-size: 30px;
+        margin-bottom: 20px;
+    }
+
+    .btn {
+        font-size: 22px;
+        width: 500px;
+        height: 90px;
+        margin: 10px;
+    }
+
+    .wrapper_resaylt {
+        padding-top: 50px;
+        width: 100%;
+    }
+
+    th {
+        font-size: 23px;
+        height: 50px;
+
+    }
+
+    td {
+        font-size: 23px;
+        height: 50px;
+    }
+
+    h1 {
+
+        font-size: 60px;
+
+    }
+
+    h2 {
+
+        font-size: 50px;
+
+    }
+
+    .errText {
+        margin: auto;
+        width: 75%;
+        padding-top: 200px;
+    }
+
+    .err {
+        font-size: 30px;
+    }
+
+    .btnBack {
+        width: 250px;
+        height: 50px;
+        font-size: 20px;
+
+
+    }
+}

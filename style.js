@@ -1311,62 +1311,63 @@ home = [
 
     {id: 1099, floor: '1-10'},
     {id: 1100, floor: '1-10'},
-    {id: 1101, floor: '1-10', finishing: true, url: ''},
-    {id: 1102, floor: '1-10', finishing: true, url: ''},
+    {id: 1101, floor: '1-10', finishing: true, url: 'https://fsknw.bitrix24.ru/bitrix/tools/disk/focus.php?objectId=625662&cmd=show&action=showObjectInGrid&ncc=1'},
+    {id: 1102, floor: '1-10', finishing: true, url: 'https://fsknw.bitrix24.ru/bitrix/tools/disk/focus.php?objectId=625664&cmd=show&action=showObjectInGrid&ncc=1'},
     {id: 1103, floor: '1-10'},
 
-    {id: 1104, floor: '2-10',finishing: true, url: ''},
-    {id: 1105, floor: '2-10', finishing: true, url: ''},
-    {id: 1106, floor: '2-10', finishing: true, url: ''},
+    {id: 1104, floor: '2-10',finishing: true, url: 'https://fsknw.bitrix24.ru/bitrix/tools/disk/focus.php?objectId=625666&cmd=show&action=showObjectInGrid&ncc=1'},
+    {id: 1105, floor: '2-10', finishing: true, url: 'https://fsknw.bitrix24.ru/bitrix/tools/disk/focus.php?objectId=625668&cmd=show&action=showObjectInGrid&ncc=1'},
+    {id: 1106, floor: '2-10', finishing: true, url: 'https://fsknw.bitrix24.ru/bitrix/tools/disk/focus.php?objectId=625670&cmd=show&action=showObjectInGrid&ncc=1'},
     {id: 1107, floor: '2-10'},
     {id: 1108, floor: '2-10'},
 
-    {id: 1109, floor: '3-10',finishing: true, url: ''},
-    {id: 1110, floor: '3-10',finishing: true, url: ''},
-    {id: 1111, floor: '3-10',finishing: true, url: '' },
+    {id: 1109, floor: '3-10',finishing: true, url: 'https://fsknw.bitrix24.ru/bitrix/tools/disk/focus.php?objectId=625672&cmd=show&action=showObjectInGrid&ncc=1'},
+    {id: 1110, floor: '3-10',finishing: true, url: 'https://fsknw.bitrix24.ru/bitrix/tools/disk/focus.php?objectId=625674&cmd=show&action=showObjectInGrid&ncc=1'},
+    {id: 1111, floor: '3-10',finishing: true, url: 'https://fsknw.bitrix24.ru/bitrix/tools/disk/focus.php?objectId=625676&cmd=show&action=showObjectInGrid&ncc=1' },
     {id: 1112, floor: '3-10'},
-    {id: 1113, floor: '3-10',finishing: true, url: ''},
+    {id: 1113, floor: '3-10',finishing: true, url: 'https://fsknw.bitrix24.ru/bitrix/tools/disk/focus.php?objectId=625678&cmd=show&action=showObjectInGrid&ncc=1'},
 
     {id: 1114, floor: '4-10'},
     {id: 1115, floor: '4-10'},
     {id: 1116, floor: '4-10'},
     {id: 1117, floor: '4-10'},
-    {id: 1118, floor: '4-10',finishing: true, url: ''},
+    {id: 1118, floor: '4-10',finishing: true, url: 'https://fsknw.bitrix24.ru/bitrix/tools/disk/focus.php?objectId=625680&cmd=show&action=showObjectInGrid&ncc=1'},
 
     {id: 1119, floor: '5-10'},
     {id: 1120, floor: '5-10'},
-    {id: 1121, floor: '5-10', finishing: true, url: ''},
-    {id: 1122, floor: '5-10',finishing: true, url: ''},
+    {id: 1121, floor: '5-10',finishing: true, url: 'https://fsknw.bitrix24.ru/bitrix/tools/disk/focus.php?objectId=625682&cmd=show&action=showObjectInGrid&ncc=1'},
+    {id: 1122, floor: '5-10',finishing: true, url: 'https://fsknw.bitrix24.ru/bitrix/tools/disk/focus.php?objectId=625684&cmd=show&action=showObjectInGrid&ncc=1'},
     {id: 1123, floor: '5-10'},
 
-    {id: 1124, floor: '6-10', finishing: true, url: ''},
+    {id: 1124, floor: '6-10', finishing: true, url: 'https://fsknw.bitrix24.ru/bitrix/tools/disk/focus.php?objectId=625686&cmd=show&action=showObjectInGrid&ncc=1'},
     {id: 1125, floor: '6-10'},
-    {id: 1126, floor: '6-10',finishing: true, url: ''},
+    {id: 1126, floor: '6-10',finishing: true, url: 'https://fsknw.bitrix24.ru/bitrix/tools/disk/focus.php?objectId=625688&cmd=show&action=showObjectInGrid&ncc=1'},
     {id: 1127, floor: '6-10'},
     {id: 1128, floor: '6-10'},
 
-    {id: 1129, floor: '7-10',finishing: true, url: ''},
-    {id: 1130, floor: '7-10',finishing: true, url: ''},
-    {id: 1131, floor: '7-10',finishing: true, url: ''},
-    {id: 1132, floor: '7-10',finishing: true, url: ''},
+    {id: 1129, floor: '7-10',finishing: true, url: 'https://fsknw.bitrix24.ru/bitrix/tools/disk/focus.php?objectId=625690&cmd=show&action=showObjectInGrid&ncc=1'},
+    {id: 1130, floor: '7-10',finishing: true, url: 'https://fsknw.bitrix24.ru/bitrix/tools/disk/focus.php?objectId=625692&cmd=show&action=showObjectInGrid&ncc=1'},
+    {id: 1131, floor: '7-10',finishing: true, url: 'https://fsknw.bitrix24.ru/bitrix/tools/disk/focus.php?objectId=625694&cmd=show&action=showObjectInGrid&ncc=1'},
+    {id: 1132, floor: '7-10',finishing: true, url: 'https://fsknw.bitrix24.ru/bitrix/tools/disk/focus.php?objectId=625696&cmd=show&action=showObjectInGrid&ncc=1'},
     {id: 1133, floor: '7-10',},
 
-    {id: 1134, floor: '8-10',finishing: true, url: ''},
+    {id: 1134, floor: '8-10',finishing: true, url: 'https://fsknw.bitrix24.ru/bitrix/tools/disk/focus.php?objectId=625698&cmd=show&action=showObjectInGrid&ncc=1'},
     {id: 1135, floor: '8-10',},
-    {id: 1136, floor: '8-10',finishing: true, url: ''},
+    {id: 1136, floor: '8-10',finishing: true, url: 'https://fsknw.bitrix24.ru/bitrix/tools/disk/focus.php?objectId=625700&cmd=show&action=showObjectInGrid&ncc=1'},
     {id: 1137, floor: '8-10'},
-    {id: 1138, floor: '8-10',finishing: true, url: ''},
+    {id: 1138, floor: '8-10',finishing: true, url: 'https://fsknw.bitrix24.ru/bitrix/tools/disk/focus.php?objectId=625702&cmd=show&action=showObjectInGrid&ncc=1'},
 
     {id: 1139, floor: '9-10'},
     {id: 1140, floor: '9-10'},
     {id: 1142, floor: '9-10'},
-    {id: 1141, floor: '9-10',finishing: true, url:''},
+    {id: 1141, floor: '9-10',finishing: true, url:'https://fsknw.bitrix24.ru/bitrix/tools/disk/focus.php?objectId=625704&cmd=show&action=showObjectInGrid&ncc=1'},
     {id: 1143, floor: '9-10'},
 
     {id: 1144, floor: '10-10'},
     {id: 1145, floor: '10-10'},
-    {id: 1146, floor: '10-10', finishing: true, url:''},
-    {id: 1147, floor: '10-10', finishing: true, url: ''}
+    {id: 1146, floor: '10-10', finishing: true, url:'https://fsknw.bitrix24.ru/bitrix/tools/disk/focus.php?objectId=625706&cmd=show&action=showObjectInGrid&ncc=1'},
+    {id: 1147, floor: '10-10', finishing: true, url: 'https://fsknw.bitrix24.ru/bitrix/tools/disk/focus.php?objectId=625708&cmd=show&action=showObjectInGrid&ncc=1'}
+
 
 
 ];

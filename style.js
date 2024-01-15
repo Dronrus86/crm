@@ -1156,10 +1156,10 @@ home = [
     //G2
 
     {id: 976, floor: '1-14', queue: 5, section: 'G2'},
-    {id: 977, floor: '1-14', queue: 5, section: 'G2', finishing: true, url: ''},
+    {id: 977, floor: '1-14', queue: 5, section: 'G2', finishing: true, url: 'https://fsknw.bitrix24.ru/bitrix/tools/disk/focus.php?objectId=625564&cmd=show&action=showObjectInGrid&ncc=1'},
     {id: 978, floor: '1-14', queue: 5, section: 'G2'},
 
-    {id: 979, floor: '2-14', queue: 5, section: 'G2', finishing: true, url: ''},
+    {id: 979, floor: '2-14', queue: 5, section: 'G2', finishing: true, url: 'https://fsknw.bitrix24.ru/bitrix/tools/disk/focus.php?objectId=625566&cmd=show&action=showObjectInGrid&ncc=1'},
     {id: 980, floor: '2-14', queue: 5, section: 'G2'},
     {id: 981, floor: '2-14', queue: 5, section: 'G2'},
 
@@ -1175,7 +1175,7 @@ home = [
     {id: 989, floor: '5-14', queue: 5, section: 'G2'},
     {id: 990, floor: '5-14', queue: 5, section: 'G2'},
 
-    {id: 991, floor: '6-14', queue: 5, section: 'G2', finishing: true, url: ''},
+    {id: 991, floor: '6-14', queue: 5, section: 'G2', finishing: true, url: 'https://fsknw.bitrix24.ru/bitrix/tools/disk/focus.php?objectId=625568&cmd=show&action=showObjectInGrid&ncc=1'},
     {id: 992, floor: '6-14', queue: 5, section: 'G2'},
     {id: 993, floor: '6-14', queue: 5, section: 'G2'},
 
@@ -1185,15 +1185,15 @@ home = [
 
     {id: 997, floor: '8-14', queue: 5, section: 'G2'},
     {id: 998, floor: '8-14', queue: 5, section: 'G2'},
-    {id: 999, floor: '8-14', queue: 5, section: 'G2', finishing: true, url: ''},
+    {id: 999, floor: '8-14', queue: 5, section: 'G2', finishing: true, url: 'https://fsknw.bitrix24.ru/bitrix/tools/disk/focus.php?objectId=625570&cmd=show&action=showObjectInGrid&ncc=1'},
 
     {id: 1000, floor: '9-14', queue: 5, section: 'G2'},
     {id: 1001, floor: '9-14', queue: 5, section: 'G2'},
-    {id: 1002, floor: '9-14', queue: 5, section: 'G2', finishing: true, url: ''},
+    {id: 1002, floor: '9-14', queue: 5, section: 'G2', finishing: true, url: 'https://fsknw.bitrix24.ru/bitrix/tools/disk/focus.php?objectId=625572&cmd=show&action=showObjectInGrid&ncc=1'},
 
-    {id: 1003, floor: '10-14', queue: 5, section: 'G2', finishing: true, url: ''},
-    {id: 1004, floor: '10-14', queue: 5, section: 'G2', finishing: true, url: ''},
-    {id: 1005, floor: '10-14', queue: 5, section: 'G2', finishing: true, url: ''},
+    {id: 1003, floor: '10-14', queue: 5, section: 'G2', finishing: true, url: 'https://fsknw.bitrix24.ru/bitrix/tools/disk/focus.php?objectId=625574&cmd=show&action=showObjectInGrid&ncc=1'},
+    {id: 1004, floor: '10-14', queue: 5, section: 'G2', finishing: true, url: 'https://fsknw.bitrix24.ru/bitrix/tools/disk/focus.php?objectId=625576&cmd=show&action=showObjectInGrid&ncc=1'},
+    {id: 1005, floor: '10-14', queue: 5, section: 'G2', finishing: true, url: 'https://fsknw.bitrix24.ru/bitrix/tools/disk/focus.php?objectId=625580&cmd=show&action=showObjectInGrid&ncc=1'},
 
     {id: 1006, floor: '11-14', queue: 5, section: 'G2'},
     {id: 1007, floor: '11-14', queue: 5, section: 'G2'},
@@ -1209,7 +1209,7 @@ home = [
 
     {id: 1015, floor: '14-14', queue: 5, section: 'G2'},
     {id: 1016, floor: '14-14', queue: 5, section: 'G2'},
-
+    
     //H2
 
     {id: 1017, floor: '1-12',finishing: true, url: ''},

@@ -22,7 +22,7 @@ home = [
     {id: 11, floor: '4-15', queue: 1, section: 'D2'},
     {id: 12, floor: '4-15', queue: 1, section: 'D2'},
     {id: 13, floor: '4-15', queue: 1, section: 'D2'},
-    {id: 14, floor: '4-15', queue: 1, section: 'D2', finishing: true, url: '' },
+    {id: 14, floor: '4-15', queue: 1, section: 'D2',finishing: true, url: '' },
     {id: 15, floor: '4-15', queue: 1, section: 'D2'},
     {id: 16, floor: '4-15', queue: 1, section: 'D2', finishing: true, url: ''},
     {id: 17, floor: '4-15', queue: 1, section: 'D2'},

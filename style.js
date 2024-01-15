@@ -1423,6 +1423,27 @@ btnSearch.addEventListener('click', () => {
             // frontDoor.innerHTML = '24';
             // queue.innerHTML = '3';
 
+       } else if (res.id >= 913 && res.id <= 947) {
+
+            section.innerHTML = 'F1';
+            frontDoor.innerHTML = '11';
+            queue.innerHTML = '5';
+
+
+        } else if (res.id >= 948 && res.id <= 975) {
+
+            section.innerHTML = 'F2';
+            frontDoor.innerHTML = '12';
+            queue.innerHTML = '5';
+
+
+        } else if (res.id >= 976 && res.id <= 1016) {
+
+            section.innerHTML = 'G2';
+            frontDoor.innerHTML = '13';
+            queue.innerHTML = '5';
+
+
 
         } else if (res.id >= 1017 && res.id <= 1098) {
 
